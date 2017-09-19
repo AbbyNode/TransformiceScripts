@@ -1,4 +1,4 @@
-# Transformice
+# Transformice Scripts
 
 A collection of scripts I made for [Transformice](https://www.transformice.com/) back in early 2010's
 
